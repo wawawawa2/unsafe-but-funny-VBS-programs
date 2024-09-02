@@ -19,7 +19,7 @@ End Sub
 
 ' Function to display a popup
 Sub ShowPopup()
-    MsgBox "click OK to claim $1000", vbInformation, "You have won $1000!"
+    MsgBox "ur compoter has virus", vbInformation, "hallo"
 End Sub
 
 ' Function to start new instances of the script
